@@ -10,7 +10,8 @@ Designed with a warm brand identity, clean layout, and smooth UI that works acro
 <img width="1919" height="853" alt="image" src="https://github.com/user-attachments/assets/62f68eb2-faec-4f00-8a09-c3a299bbd419" />
 
 
-🔗 **Live Demo:https://github.com/NoureldenX/Maria-s-Coffee/blob/main/Project1/index.html 
+🔗 Html:https://github.com/NoureldenX/Maria-s-Coffee/blob/main/Project1/index.html 
+🔗 css:[https://github.com/NoureldenX/Maria-s-Coffee/blob/main/Project1/index.html ](https://github.com/NoureldenX/Maria-s-Coffee/blob/main/Project1/style.css)
 
 
 ---
